@@ -7,7 +7,7 @@ function Navbar() {
     <div>
         <nav>
             <div className='logo'>
-                <img src='../Image/logo.png' />
+                <img src='/Image/logo.png' alt='logo img' />
             </div>
             <ul>
               <li href="#" >Menu</li>
